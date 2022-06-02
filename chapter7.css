@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual-text{
+  padding: 20px;
+}
+
+.main-visual{
+  width: 100%;
+  height: 400px;
+  padding-bottom: 50px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+main{
+  width: 840px;
+  margin: 0 auto;
+}
+
+.webcamp-box{
+  padding: 20px 0 50px 0;
+}
+
+.webcamp-item{
+  padding-top: 30px;
+}
+
+.webcamp-text{
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
